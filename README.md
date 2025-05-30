@@ -1,6 +1,8 @@
 # cochranq
 Cochran's Q test for proportion difference in blocked binary data Use cochranq With STATA 19
 
+https://www.youtube.com/watch?v=YkLLTnhBmkc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
